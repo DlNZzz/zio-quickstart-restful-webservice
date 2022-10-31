@@ -10,3 +10,5 @@ libraryDependencies ++= Seq(
   "io.getquill"   %% "quill-jdbc-zio" % "4.3.0",
   "com.h2database" % "h2"             % "2.1.214"
 )
+
+// java -cp out\artifacts\zio_quickstart_restful_webservice_jar\zio-quickstart-restful-webservice.jar dev\zio\quickstar\MainApp
